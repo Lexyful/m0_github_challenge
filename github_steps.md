@@ -1,3 +1,3 @@
 # GitHub Steps
 
-Describe in your own words how to establish a connection between a local repository and a remote repository on GitHub.
+- first fork the repository so we have access and clone the repository in the terminal so we have access on out local device
